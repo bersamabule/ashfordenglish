@@ -1,0 +1,11 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# Node stuff (safe even if you don’t use Node yet)
+node_modules/
+dist/
+.next/
+out/
+.env
+.env.*
